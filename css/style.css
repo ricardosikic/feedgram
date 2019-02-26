@@ -1,0 +1,64 @@
+body {
+	background: lightgray;
+}
+
+.main-wrapper {
+	background: #FFF;
+	padding: 10px;
+	width: 100%;
+	margin-left: -10px;
+	margin-top: -8px;
+}
+
+.main-wrapper h1 {
+	text-align: center;
+}
+
+/** posts **/
+
+.feed {
+	margin: 0 auto;
+	margin-top: 20px;
+	background: white;
+	width: 500px;
+	border-radius: 5px;
+
+}
+
+.feed-title {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.date {
+	margin-left: 310px;
+	display: inline-block;
+}
+
+.imagen {
+	display: block;
+	width: 500px;
+}
+
+.feed-text {
+	display: block;
+	padding: 10px;
+}
+
+.feed2 {
+	margin: 0 auto;
+	margin-top: 90px;
+	background: white;
+	width: 500px;
+	border-radius: 5px;
+
+}
+
+.feed3 {
+	margin: 0 auto;
+	margin-top: 90px;
+	background: white;
+	width: 500px;
+	border-radius: 5px;
+
+}
